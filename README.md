@@ -11,7 +11,7 @@
 - **Scalable and Maintainable**: Organized structure for easily scalable and maintainable plugin development.
 - **Modular Design**: Facilitates adding new features and customizing existing ones.
 
-## Installation
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> ## Installation
 
 1. **Download the Template**: Clone or download this repository to your local machine.
    
