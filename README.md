@@ -2,7 +2,7 @@
 
 **WordPress Plugin Structure** is a comprehensive and organized kit designed for developing scalable and maintainable WordPress plugins. This template provides all the essential and advanced components needed to create professional plugins, enabling developers to efficiently and systematically build their projects.
 
-##  Features
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px> </picture> Features
 
 - **Custom Post Types**: Supports custom post types for diverse content management.
 - **Cron Jobs**: Built-in support for scheduling tasks and background processes.
