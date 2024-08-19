@@ -16,4 +16,4 @@
 1. **Download the Template**: Clone or download this repository to your local machine.
    
    ```bash
-   git clone https://github.com/your-username/wordPress-plugin-structure.git
+   git clone https://github.com/MahdiMashkuri/WordPress-Plugin-Structure.git
